@@ -1,4 +1,5 @@
 coverage
 .idea/
+result
 testdata/hello_world/timeout_on
 testdata/hello_world/timeout_off
